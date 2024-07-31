@@ -6,13 +6,13 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Tianqi
 middle_name:
 last_name: Wang
-email: tq.wang93@gmail.com
+email: tianqi93@connect.hku.hk
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Tianqi's academic homepage based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
 keywords: # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: 🎓 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://tianqi93.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
@@ -38,7 +38,7 @@ repo_theme_dark: dark           # https://github.com/anuraghazra/github-readme-s
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: true
+rss_icon: false
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -72,7 +72,7 @@ dblp_url: # your DBLP profile url
 discord_id: # your discord id (18-digit unique numerical identifier)
 facebook_id: # your facebook id
 flickr_id: # your flickr id
-github_username: # your GitHub user name
+github_username: tianqi93 # your GitHub user name
 gitlab_username: # your GitLab user name
 ieee_id: # your ieeexplore.ieee.org/author/id
 instagram_id: # your instagram id
@@ -105,8 +105,7 @@ x_username: # your X handle
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
-contact_note: >
-  The best way to reach me is via email.
+contact_note: > # The best way to reach me is via email.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -126,8 +125,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_name: Notes # blog_name will be displayed in your blog page
+blog_description: Reading notes of papers on a broad range of topics
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -193,13 +192,13 @@ collections:
     permalink: /:collection/:title/
 
 announcements:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
+  enabled: false
+  scrollable: false # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+  enabled: false
+  scrollable: false # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 
 # -----------------------------------------------------------------------------
@@ -307,7 +306,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 
 scholar:
   last_name: [Wang]
-  first_name: [Wang, T.]
+  first_name: [Tianqi]
 
   style: apa
   locale: en
@@ -363,7 +362,7 @@ filtered_bibtex_keywords:
   ]
 
 # Maximum number of authors to be shown for each publication (more authors are visible on click)
-max_author_limit: 3 # leave blank to always show all authors
+max_author_limit: 4 # leave blank to always show all authors
 more_authors_animation_delay: 10 # more authors are revealed on click using animation; smaller delay means faster animation
 
 # Enables publication thumbnails. If disabled, none of the publications will display thumbnails, even if specified in the bib entry.
@@ -427,7 +426,7 @@ enable_darkmode: true # enables switching between light/dark modes
 enable_navbar_social: false # enables displaying social links in the navbar on the about page
 enable_project_categories: true # enables categorization of projects into multiple categories
 enable_medium_zoom: true # enables image zoom feature (as on medium.com)
-enable_progressbar: true # enables a horizontal progress bar linked to the vertical scroll position
+enable_progressbar: false # enables a horizontal progress bar linked to the vertical scroll position
 enable_video_embedding: false # enables video embedding for bibtex entries. If false, the button opens the video link in a new window.
 
 # -----------------------------------------------------------------------------
