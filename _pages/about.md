@@ -21,4 +21,4 @@ In HKU, I am supervised by Dr. [Manwa Lawrence Ng](https://web.edu.hku.hk/facult
 Prior to HKU, I was working in a very different field (although it was language-related) and received my Master’s degree from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/). Some of my experience and knowledge in NLP and EEG was accumulated while working as a research assistant at the Laboratory of Human-Machine Intelligence-Synergy Systems, [Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences](https://www.siat.ac.cn/) (Advisor: Prof. [Nan Yan](https://people.ucas.edu.cn/~yannan), Prof. [Lan Wang](https://people.ucas.ac.cn/~0008839)).
 
 
-**OPEN TO WORK** 💼 I'm looking for a postdoc or AP postion in psycholinguistics and related fields (e.g., cognitive science, psychology, communication science and disorder). I prefer to work in the States.
+**OPEN TO WORK** 💼 I'm looking for a postdoc or AP postion in psycholinguistics and related fields (e.g., cognitive science, psychology, communication science and disorder).
