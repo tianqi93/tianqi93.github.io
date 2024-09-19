@@ -14,7 +14,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi and thanks for stopping by 👋 I am currently a fifth-year PhD student working on computational psycholinguistics at the [University of Hong Kong](https://www.hku.hk/). My research focuses on lexical semantic representation and individual differences in terms of mental lexicon. I use a combination of tools from psycholinguistic experimentation (behavioral and EEG) and natural language processing (language models). For a longer overview of my research, click here.
+Hi and thanks for stopping by 👋 I am currently a fifth-year PhD student working on computational psycholinguistics at the [University of Hong Kong](https://www.hku.hk/). My areas of interest include lexical semantic representation and individual differences in terms of mental lexicon. I use a combination of tools from psycholinguistic experimentation (behavioral and EEG) and natural language processing (language models) to understand the *how* and the *why* within these topics. For a longer overview of my research, click here. 
 
 In HKU, I am supervised by Prof. [Manwa Lawrence Ng](https://web.edu.hku.hk/faculty-academics/manwa) and Prof. [Guang Ouyang](https://web.edu.hku.hk/faculty-academics/ouyangg). I am also advised by Prof. [Xu Xu](https://sfl.sjtu.edu.cn/En/Data/View/2619) at [STJU](https://www.sjtu.edu.cn/). Prior to doctoral study, I was working at the Laboratory of Human-Machine Intelligence-Synergy Systems in Chinese Academy of Sciences, where I was supervised by Prof. [Nan Yan](https://people.ucas.edu.cn/~yannan) and Prof. [Lan Wang](https://people.ucas.ac.cn/~0008839).
 
