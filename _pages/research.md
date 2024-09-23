@@ -7,7 +7,7 @@ nav: true
 nav_order: 1
 ---
 
-My current research centers on the intersection of psycholinguistics and natural language processing. More concretely, I use a combination of human experiments and computational modeling to understand how words are organized and retrieved, as well as how individuals are different in terms of their mental lexicon. Topics of my research include compositionality, lexical ambiguity, and lifespan changes in lexical semantic representation. Below are some of the specific projects I work on during my doctoral study.
+My current research centers on the intersection of psycholinguistics and natural language processing. More concretely, I use a combination of computational modeling and human experiments to understand how words are organized and retrieved, as well as how individuals are different in terms of their mental lexicon. Topics of my research include compositionality, lexical ambiguity, and lifespan changes in lexical semantic representation. Below are some of the specific projects I work on during my doctoral study.
 ---
 
 ##### **Project 1: A Computational characterization of Chinese compound processing**
