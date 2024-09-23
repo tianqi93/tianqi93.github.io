@@ -19,5 +19,15 @@ This project intends to provide a computational characterization for the dual-ro
 
 {% include figure.liquid loading="eager" path="assets/img/project/PhD_Project_1.jpg" class="img-fluid rounded z-depth-1" %}
 <div class="caption">
-    Computational model and computed metrics
+    Computational model (left panel) and computed metrics (right panel)
+</div>
+
+##### **Project 2: A computational characterization of Chinese character ambiguity**
+___
+
+This project provided evidence from both human judgments and computational models for the graded nature of lexical ambiguity. With a special focus on Chinese characters, we first established that native speaker’s perception about a character’s number of meanings was heavily influenced by the availability of its distinct word formations, while whether these meanings would be perceived to be closely related was driven by further conceptual analysis. These notions were operationalized as two computed metrics, which assessed the degree of dispersion across individual word formations and the degree of propinquity across clusters of word formations, respectively, in a distributional semantic space. Our findings extended the previous observation that distributional semantics could inform about the quantity and relatedness of senses. Moreover, idiosyncratic features of Chinese characters render their word formations reliable and cognitively plausible probes of their meaning representations. Our study therefore has theoretical implications for understanding how Chinese characters are represented within the mental lexicon. It also sheds light on the representation of ambiguous words more generally.
+
+{% include figure.liquid loading="eager" path="assets/img/project/PhD_Project_2.jpg" class="img-fluid rounded z-depth-1" %}
+<div class="caption">
+    Two-dimensional visualization of the vector space based on individual word formations (upper three panels) and clusters of word formations (lower three panels) for the three example characters
 </div>
