@@ -10,10 +10,6 @@ nav_order: 1
 > My current research centers on the intersection of psycholinguistics and natural language processing. More concretely, I use a combination of computational modeling and human experiments to understand how words are organized and retrieved, as well as how individuals are different in terms of their mental lexicon. Topics of my research include compositionality, lexical ambiguity, and methodological issues in predicting normative data on psycholinguistic variables. Below are some of the specific projects I work on.
 {: .block-warning }
 
-> ✨ Words in minds and machines: A computational characterization of Chinese mental lexicon
-{: .block-tip }
-
-
 ##### **Project 1: A computational characterization of Chinese compound processing**
 ___
 
@@ -41,5 +37,5 @@ Word semantic norms are important tools in psycholinguistic research, natural la
 
 {% include figure.liquid loading="eager" path="assets/img/project/PhD_Project_3.jpg" class="img-fluid rounded z-depth-1" %}
 <div class="caption">
-    Model architecture (left panel) and the variability of the extrapolated valence (middle panel) and arousal (right panel)
+    Model architecture (upper panel) and the variability of the extrapolated valence (lower left panel) and arousal (lower right panel)
 </div>
