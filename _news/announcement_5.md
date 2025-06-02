@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I attended the International Youth Forum at Chongqing University and gave a research talk.
+I attended the International Young Scholar Forum at Chongqing University and gave a research talk.
