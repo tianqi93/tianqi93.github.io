@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:mega: I presented my recent works at CROSSLING 2025! Here are the [posters](https://tianqi93.github.io/assets/pdf/poster/Poster_CrossLing2025.pdf).
+I presented my recent works at CROSSLING 2025! Here are the [posters](https://tianqi93.github.io/assets/pdf/poster/Poster_CrossLing2025.pdf).

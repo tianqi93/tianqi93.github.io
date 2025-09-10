@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:tada: I passed my PhD thesis defense!
+I passed my PhD thesis defense! :tada: 

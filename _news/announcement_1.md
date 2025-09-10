@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:tada: I passed my confirmation of PhD candidature!
+I passed my confirmation of PhD candidature! :tada: 
